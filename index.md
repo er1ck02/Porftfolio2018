@@ -2,5 +2,5 @@
 
 
 
-#### Here are all of my projects that I have been working on from 2017-18
+#### Here are some of my projects that I have been working on from 2017-18
 
