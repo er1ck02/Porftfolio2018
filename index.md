@@ -21,7 +21,11 @@
 ### [Link To Github Cars](https://github.com/er1ck02/Cars)
 
 ## Etcha Sketch -
-#### This project is just like the etcha scketa; you can draw freely what ever you want.
+#### This project is just like the etcha sketch; you can draw freely what ever you want.
+
+### [Link To Github Etcha](https://github.com/er1ck02/EtchaScetch)
+
+
 
 
 
