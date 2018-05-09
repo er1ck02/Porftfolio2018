@@ -26,6 +26,11 @@
 ### [Link To Github Etcha](https://github.com/er1ck02/EtchaScetch)
 
 
+## Inches to feet converter
+#### this project was writen in processing, and what it does it just converts inches to feet.
+### [Link To Github Etcha](https://github.com/er1ck02/InchestToFeet)
+
+
 
 
 
