@@ -37,6 +37,14 @@
 
 ### [Link To Github 10hour](https://github.com/er1ck02/10-hour/tree/master)
 
+## Calculator
+#### a calculator with just numbers. It is not finished yet.
+
+### [Link To Github calculator](https://github.com/er1ck02/Calculator)
+
+
+
+
 
 
 
