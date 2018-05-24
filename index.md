@@ -28,7 +28,7 @@
 
 ## Inches to feet converter
 #### this project was writen in processing, and what it does it just converts inches to feet.
-### [Link To Github Etcha](https://github.com/er1ck02/InchestToFeet)
+### [Link To Github Converter](https://github.com/er1ck02/InchestToFeet)
 
 
 
